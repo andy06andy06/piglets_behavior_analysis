@@ -1,0 +1,9 @@
+*.pt
+@eaDir/
+%PATH%/
+runs/
+Dataset_image/
+Dataset_video/
+CRNN/CRNN_ckpt/
+CRNN/dataset/
+aggressive/
